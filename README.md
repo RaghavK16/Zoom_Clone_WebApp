@@ -6,17 +6,17 @@
 
 ## Running the project
 
+1. Install all dependencies.
 ```
-cd projfront
+npm i
 ```
+2. Start the server.
 ```
-npm i && npm start
+npm start
 ```
+3. Open localhost on port 3030.
 ```
-cd projback
-```
-```
-npm i && npm start
+localhost:3030/
 ```
 
 ## Contribution
