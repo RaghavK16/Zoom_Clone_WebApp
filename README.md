@@ -14,7 +14,7 @@ npm i
 ```
 npm start
 ```
-3. Open localhost on port 3030.
+3. Open localhost on port 3030 (can be changed from server file).
 ```
 localhost:3030/
 ```
