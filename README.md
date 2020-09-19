@@ -4,6 +4,8 @@
 
 * Simplistic Zoom Clone Web-App using NodeJS.
 
+* Zoom Meeting can be joined for two windows, using same meet ID Url. 
+
 ## Running the project
 
 1. Install all dependencies.
